@@ -51,7 +51,8 @@ h5 {
 }
 
 .categories button.selected {
-  background: pink;
+  background: blue;
+  color: white;
 }
 
 .categories button:hover {

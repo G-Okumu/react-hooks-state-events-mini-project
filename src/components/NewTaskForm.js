@@ -1,6 +1,6 @@
 import React from "react";
 
-function NewTaskForm() {
+function NewTaskForm({categories, addTask}) {
   return (
     <form className="new-task-form">
       <label>
